@@ -7,6 +7,8 @@
 This is my first attempt at making a Employee Tracker application using front-end back-end connections with express, 
 inquirer for user input collection, as well as mysql2 for database management. 
 
+Click here for a [Video](https://www.loom.com/share/bc55d46be6984d1e9b1e4078fd113355)
+
 ![This is an image](SS.png)
 
 ## Table of Contents
